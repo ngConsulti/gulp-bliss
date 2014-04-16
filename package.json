@@ -1,0 +1,25 @@
+{
+  "name": "gulp-bliss",
+  "version": "0.0.1",
+  "description": "Compile Bliss templates with gulp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ngConsulti/gulp-bliss.git"
+  },
+  "keywords": [
+    "bliss",
+    "gulpplugin",
+    "stream",
+    "compile"
+  ],
+  "author": "ngConsulti <contact@ngConsulti.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngConsulti/gulp-bliss/issues"
+  },
+  "homepage": "https://github.com/ngConsulti/gulp-bliss"
+}
