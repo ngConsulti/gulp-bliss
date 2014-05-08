@@ -26,5 +26,6 @@
     "bliss": "^1.0.1",
     "gulp-util": "~2.2",
     "through2": "~0.4"
-  }
+  },
+  "devDependencies": {}
 }
